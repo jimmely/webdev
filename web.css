@@ -1,6 +1,7 @@
 body{
 	background: -webkit-linear-gradient(#0e0eff,#ffa200); 
 }
+
 li{
 	list-style-type: none;
 	display: inline;
